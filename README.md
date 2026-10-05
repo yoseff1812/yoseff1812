@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I’m a Data Analyst and Computer & Data Science student at Alexandria University, with a solid foundation in mathematics, statistics, SQL, Excel, Power BI, and Python. I enjoy turning raw data into meaningful insights and building data-driven solutions through analysis, visualization, and statistical thinking. I’m continuously developing my skills in data analytics, machine learning, and data science.<br>
 
 
@@ -12,9 +12,7 @@ I’m a Data Analyst and Computer & Data Science student at Alexandria Universit
 ![](https://streak-stats.demolab.com/?user=yoseff1812&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=yoseff1812&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yoseff1812&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+## 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
